@@ -1,6 +1,9 @@
 AntiVirus Evasion Tool
 ======================
 
+Please note that this project has PoC status!
+---------------------------------------------
+
 AVET is an AntiVirus Evasion Tool, which was developed for making life easier for pentesters and for experimenting with antivirus evasion techniques, this version is for OSX.
 
 For basics about antivirus evasion, AVET & more information have a look here: 
